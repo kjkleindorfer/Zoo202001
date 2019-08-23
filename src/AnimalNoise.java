@@ -17,6 +17,9 @@ public class AnimalNoise {
 		Fish nemo = new Fish();
 		System.out.println(nemo.speak());
 		
+		Duck Leo = new Duck();
+		System.out.println(Leo.speak());
+		
 	}
 
 }
