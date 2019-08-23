@@ -20,6 +20,9 @@ public class AnimalNoise {
 		Duck Leo = new Duck();
 		System.out.println(Leo.speak());
 		
+		Tiger tony = new Tiger();
+		System.out.println(tony.speak());
+		
 	}
 
 }
