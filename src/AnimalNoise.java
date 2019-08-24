@@ -28,7 +28,9 @@ public class AnimalNoise {
 		
 		Fox sparkles = new Fox();
 		System.out.println(sparkles.speak());
-
+		
+		Chicken bob = new Chicken();
+		System.out.println(bob.speak());
 	}
 
 }
