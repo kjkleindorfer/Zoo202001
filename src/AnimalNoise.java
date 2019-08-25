@@ -26,6 +26,9 @@ public class AnimalNoise {
     Tiger tony = new Tiger();
 		System.out.println(tony.speak());
 		
+		Rooster Jasper = new Rooster();
+		System.out.println(Jasper.speak());
+		
 	}
 
 }
