@@ -1,8 +1,10 @@
 import model.*;
 
 public class AnimalNoise {
+
 	//add your animal class to the model package
 	//only push this file and the animal class you created
+
 
 	public static void main(String[] args) {
 		Cat fluffy = new Cat();
@@ -29,6 +31,16 @@ public class AnimalNoise {
 		Rooster Jasper = new Rooster();
 		System.out.println(Jasper.speak());
 		
+		Fox sparkles = new Fox();
+		System.out.println(sparkles.speak());
+		
+		Chicken bob = new Chicken();
+		System.out.println(bob.speak());
+		
+		Sheep Baaarba = new Sheep();
+		System.out.println(Baaarba.speak());
+
+    
 	}
 
 }
