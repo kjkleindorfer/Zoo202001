@@ -39,8 +39,8 @@ public class AnimalNoise {
 		
 		Sheep Baaarba = new Sheep();
 		System.out.println(Baaarba.speak());
-
-    
+		
+		Squirrel Simon = new Squirrel();
+		System.out.println(Simon.speak());
 	}
-
 }
