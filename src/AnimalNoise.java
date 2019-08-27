@@ -39,8 +39,15 @@ public class AnimalNoise {
 		
 		Sheep Baaarba = new Sheep();
 		System.out.println(Baaarba.speak());
+		
+		Bear Bubba = new Bear();
+		System.out.println(Bubba.speak());
 
-    
+		Snake Seth = new Snake();
+		System.out.println(Seth.speak());
+		
+		Mouse Mickey = new Mouse();
+		System.out.println(Mickey.speak());
 	}
 
 }
