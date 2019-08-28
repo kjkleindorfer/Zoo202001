@@ -5,7 +5,6 @@ public class AnimalNoise {
 	//add your animal class to the model package
 	//only push this file and the animal class you created
 
-
 	public static void main(String[] args) {
 		Cat fluffy = new Cat();
 		System.out.println(fluffy.speak());
@@ -18,6 +17,9 @@ public class AnimalNoise {
 		
 		Fish nemo = new Fish();
 		System.out.println(nemo.speak());
+		
+		ElectricMouse pikachu = new ElectricMouse();
+		System.out.println(pikachu.speak());
 		
 		Duck Leo = new Duck();
 		System.out.println(Leo.speak());
