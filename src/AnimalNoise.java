@@ -45,7 +45,8 @@ public class AnimalNoise {
 		Hyena Shenzi = new Hyena();
 		System.out.println(Shenzi.speak());
 
-    
+    	Lion King = new Lion();
+		System.out.println(King.speak());
 	}
 
 }
