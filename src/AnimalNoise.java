@@ -45,7 +45,8 @@ public class AnimalNoise {
 		Hyena Shenzi = new Hyena();
 		System.out.println(Shenzi.speak());
 
-    
+		Horse napoleon = new Horse();
+		System.out.println(napoleon.speak());
 	}
 
 }
