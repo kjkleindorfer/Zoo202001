@@ -47,6 +47,9 @@ public class AnimalNoise {
 
 		Horse napoleon = new Horse();
 		System.out.println(napoleon.speak());
+		
+		Bird baldy = new Bird();
+		System.out.println(baldy.speak());
 
 		SugarGlider Norman = new SugarGlider();
 		System.out.println(Norman.speak());
