@@ -69,6 +69,9 @@ public class AnimalNoise {
 		Monkey Abu = new Monkey();
 		System.out.println(Abu.speak());
 
+		Owl WiseHorn = new Owl();
+		System.out.println(WiseHorn.speak());
+		
 	}
 
 }
