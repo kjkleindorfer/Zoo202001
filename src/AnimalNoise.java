@@ -50,6 +50,9 @@ public class AnimalNoise {
 		
 		Mouse Mickey = new Mouse();
 		System.out.println(Mickey.speak());
+    
+    Lion King = new Lion();
+		System.out.println(King.speak());
 	}
 
 }
