@@ -65,6 +65,9 @@ public class AnimalNoise {
 
 		Bee droneFourTwoSix = new Bee("JavaColony", "Drone", 426);
 		System.out.println(droneFourTwoSix.speak());
+		
+		Axolotl mudkip = new Axolotl();
+		System.out.println(mudkip.speak());
 
 	}
 
