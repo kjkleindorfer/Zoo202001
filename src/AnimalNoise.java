@@ -27,7 +27,7 @@ public class AnimalNoise {
 		Goat karl = new Goat();
 		System.out.println(karl.speak());
 
-    		Tiger tony = new Tiger();
+    	Tiger tony = new Tiger();
 		System.out.println(tony.speak());
 		
 		Rooster Jasper = new Rooster();
@@ -47,6 +47,9 @@ public class AnimalNoise {
 
 		Horse napoleon = new Horse();
 		System.out.println(napoleon.speak());
+		
+		Mouse Mickey = new Mouse();
+		System.out.println(Mickey.speak());
 	}
 
 }
