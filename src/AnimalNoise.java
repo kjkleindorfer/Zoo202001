@@ -63,6 +63,8 @@ public class AnimalNoise {
     Lion King = new Lion();
 		System.out.println(King.speak());
 
+		Bee droneFourTwoSix = new Bee("JavaColony", "Drone", 426);
+		System.out.println(droneFourTwoSix.speak());
 
 	}
 
