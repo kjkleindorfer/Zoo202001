@@ -7,7 +7,7 @@ package model;
  * @author User
  *
  */
-	// Ashby Creighton Crum
+// Ashby Creighton Crum
 public class Pig {
 	private String name;
 	private int age;
