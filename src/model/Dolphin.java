@@ -9,7 +9,7 @@ public class Dolphin {
 	    super();
     }
     
-    public Dolphin(String name, int weight, String color) {
+    public Dolphin(String name, int weight, String breed) {
     	super();
     	this.name = name;
     	this.weight = weight;
