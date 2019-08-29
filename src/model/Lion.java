@@ -1,6 +1,6 @@
 package model;
 
-public class LIon {
+public class Lion {
 	
 	private String gender;
 	private int age;
