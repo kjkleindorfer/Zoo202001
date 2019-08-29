@@ -48,6 +48,9 @@ public class AnimalNoise {
 		Horse napoleon = new Horse();
 		System.out.println(napoleon.speak());
 		
+		Hedgehog sonic = new Hedgehog();
+		System.out.println(sonic.speak());
+
 		Bird baldy = new Bird();
 		System.out.println(baldy.speak());
 
@@ -59,6 +62,7 @@ public class AnimalNoise {
     
     Lion King = new Lion();
 		System.out.println(King.speak());
+
 
 	}
 
