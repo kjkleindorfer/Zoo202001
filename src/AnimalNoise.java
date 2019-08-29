@@ -1,3 +1,4 @@
+
 import model.*;
 
 public class AnimalNoise {
@@ -27,7 +28,7 @@ public class AnimalNoise {
 		Goat karl = new Goat();
 		System.out.println(karl.speak());
 
-    		Tiger tony = new Tiger();
+    Tiger tony = new Tiger();
 		System.out.println(tony.speak());
 		
 		Rooster Jasper = new Rooster();
@@ -50,6 +51,25 @@ public class AnimalNoise {
 		
 		Dolphin Dante = new Dolphin();
 		System.out.println(Dante.speak());
+		
+		Hedgehog sonic = new Hedgehog();
+		System.out.println(sonic.speak());
+
+		Bird baldy = new Bird();
+		System.out.println(baldy.speak());
+
+		SugarGlider Norman = new SugarGlider();
+		System.out.println(Norman.speak());
+
+		Mouse Mickey = new Mouse();
+		System.out.println(Mickey.speak());
+    
+    Lion King = new Lion();
+		System.out.println(King.speak());
+
+		Owl WiseHorn = new Owl();
+		System.out.println(WiseHorn.speak());
+		
 	}
 
 }
