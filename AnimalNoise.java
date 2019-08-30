@@ -75,6 +75,9 @@ public class AnimalNoise {
 		Pig Porkerz = new Pig();
 		System.out.println(Porkerz.speak());
 		
+		Raven IsaacNewton = new Raven();
+		System.out.println(IsaacNewton.speak());
 	}
 
 }
+
