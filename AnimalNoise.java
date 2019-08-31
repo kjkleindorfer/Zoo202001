@@ -26,7 +26,7 @@ public class AnimalNoise {
 		
 		Goat karl = new Goat();
 		System.out.println(karl.speak());
-
+    
     Tiger tony = new Tiger();
 		System.out.println(tony.speak());
 		
@@ -77,7 +77,11 @@ public class AnimalNoise {
 		
 		Raven IsaacNewton = new Raven();
 		System.out.println(IsaacNewton.speak());
+    
+    Seal sammy = new Seal();
+		System.out.println(sammy.speak());
 	}
 
 }
+
 
