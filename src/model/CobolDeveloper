@@ -14,7 +14,8 @@ public class CobolDeveloper {
 		"Why do we have to do so much training?!?!",
 		"When people say 'OK Boomer', is that meant as an insult?",
 		"<Insert 2 hour conversation about retirement>",
-		"Do I look like a web developer? I'm 6 legs short of being one."
+		"Do I look like a web developer? I'm 6 legs short of being one.",
+		"Are you online okay?"
 	};
 	
 	public CobolDeveloper() {
